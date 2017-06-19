@@ -1,0 +1,119 @@
+#ertebat a{ font-family:tahoma; font-size:12px; margin:0 6px; float:right; }
+
+#ertebat span{float:right;} 
+
+#ertebat a > img{vertical-align:middle;}
+
+#sabad{width:1100px; position:relative; margin: 0 auto; z-index:30; display:none;}
+
+#sabad>img{position:absolute; margin-left:50px; z-index:30; margin-top:-9px; width:30px; height:20px;}
+
+#sabad1{width:300px; max-height:300px; margin-top:8px;
+	background:#fff; position:absolute; margin-left:10px; border-radius:10px; overflow-y:scroll;direction:rtl; padding:5px; box-shadow:10px 10px 20px #000;}
+
+#sabad1 ul{padding:0; margin:0; list-style:none; direction:rtl; width:100%;}
+
+#sabad1 ul li{border-bottom:1px solid #000; width:100%; float:right; direction:rtl;}
+
+#sabad1 ul img{width:70px; height:60px; vertical-align:middle;}
+
+#sabad1 a{padding:5px;}
+
+#menu > ul{margin:0; padding:0; width:100%;height:100%;}
+
+#menu > ul > li, #menu > ul > li > ul > li{float:right; direction:rtl; list-style:none; background:url(img/line1.jpg) no-repeat center right;padding:0 3px; font-family:tahoma; font-size:14; color:#fff; line-height:45px; margin:0 10px; cursor:pointer; height:100%;}
+
+#menu > ul > li > img{vertical-align:middle; margin:0 3px;}
+
+#menu > ul > li > ul{padding:0; margin:0 auto; z-index:2; width:100%;position:absolute; right:0;display:none; }
+
+#user>div{width:160px;height:24px;background:#150;float:right;margin-top:14px;margin-right:12px;border-radius:5px;direction:rtl;font-family:tahoma;font-size:14px;color:#fff;overflow:hidden;text-align:right;}
+
+#user>div>a>img{vertical-align:middle;margin-left:5px;}
+
+input{font-family:tahoma;font-size:12px;font-weight:bold;}
+
+#slideshow>a{width:100%;height:100%;max-height:100%;max-width:100%;}
+
+#slideshow>a>img{width:100%; height:100%; max-width:100%;max-height:100%;}
+
+#prev{position:absolute;top:140px;right:10px;z-index:7;cursor:pointer;display:none; opacity:0;}
+#next{position:absolute;top:140px;right:671px;z-index:7;cursor:pointer;display:none; opacity:0;}
+
+#jadidtarinhaa{margin-top:16px;margin-left:3px;width:360px;height:294px;background:#fff;border-radius:10px;float:left;border:2px solid #eee;}
+
+#jadidtarinhaa>h2{font-size:16px;direction:rtl;border:2px solid #eee; margin-top:-15px;float:right;padding:5px;margin-right:-2px;background:#fff;
+line-height:16px;border-bottom:none;}
+
+#jadidtarinhaa h2 img{vertical-align:middle;}
+
+#jadidtarinhaa ul{list-style:none; float:right; margin-right:1px; padding:1px 18px; margin-top:-1px;}
+
+#jadidtarinhaa ul li{float:right; border:2px solid #eee; border-radius:8px; margin:1px 1px; width:48%; text-align:center; font-family:tahoma;}
+
+#jadidtarinhaa ul li img{height:75px;padding:10px;}
+
+#jadidtarinhaa p{margin:0; padding:0; margin-bottom:5px;}
+
+#underslide{width:100%;background:#eee;}
+
+#underslide1{width:1100px;background:#fff; height:1000px; margin:0 auto;}
+
+#right{width:251px; background:#fff; float:right;}
+
+#left{width:830px; float:left;}
+
+#pishnahadi{width:99%; float:right; direction:rtl; border:1px solid #eee; border-radius:10px; float:right; margin-top:21px; margin-right:5px; box-shadow:2px 2px 4px #196;}
+
+#pishnahadi>h2{font-size:16px;border:2px solid #eee; margin-top:-15px;float:right;padding:5px;margin-right:-1px;background:#fff;
+line-height:16px;border-bottom:none; margin-bottom:0px;}
+
+#pishnahadi ul{padding:0; margin:0; direction }
+
+#pishnahadi li{list-style:none; border-bottom:1px solid #eee; direction:rtl; padding: 14px 1px; font-family:tahoma; font-size:14px;}
+
+#pishnahadi ul li img{vertical-align:middle; padding:5px}
+
+#line4{width:100%; height:4px; background:red; box-shadow:1px 1px 4px #000; float:right; margin-bottom:19px;}
+
+#porforush{width:100%;height:300px;background:#fff;margin-top:20px;}
+
+#porforush>h2{font-size:16px;float:right; direction:rtl;
+border:2px solid #eee;border-bottom:none; margin-top:-13px; padding:6px; line-height:30px; margin-bottom:-4px; }
+
+#porforush ul{width:100%; list-style:none; float:right; padding:0; margin:0;}
+
+#porforush ul li{width:200px;height:265px;background:#fff; border:1px solid #ccc; margin; border-radius:9px; float:right; margin-left:5px; margin-bottom:5px; text-align:center; overflow:hidden; position:relative;}
+
+#porforush ul li img{width:80%; height:145px; margin-top:5px;}
+
+#porforush ul li>a{ width: 100%; height:70px; direction: rtl; display: block; text-align: center; font-size: 14px; font-family: tahoma; background:#eea;
+font-weight: bold; padding-top: 10px; line-height:14px;}
+
+#porforush ul li a span{width:50px; height:30px; background:green; display:block;  margin:0 auto; margin-top:11px; border-radius:5px; line-height:28px; color:white; font-weight:normal; font-size:16px; padding-bottom:5px;padding-right:5px; padding-left:6px;}
+
+#porforush #tozihat{
+	padding-top:1px;
+    width: 100%;
+    height: 154px;
+    background: #000;
+    position: absolute;
+    top: 0;
+	opacity: 0;
+}
+
+#porforush #tozihat a{width:145px;height:24px; background:#eee;  color:#000; font-family:tahoma; font-size:13px; display:block; margin:auto; padding:5px;; margin-top:13px; direction:rtl; border-radius:8px;}
+
+.liBorder{
+	border: 1px solid #000;
+	box-shadow: 2px 2px 4px #000;
+	}
+
+.ta1, .ta2, .ta3{transition:all .5s}
+
+.ta1:hover{background:blue !important; color:white !important; width:155px important;}
+
+.ta2:hover{background:red !important; color:white !important; width:155px important;}
+
+.ta3:hover{background:green !important; color:white !important; width:155px important;}
+
